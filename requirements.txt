@@ -1,0 +1,6 @@
+flask 
+cv2
+threading
+torch
+ultralytics
+pyttsx3
