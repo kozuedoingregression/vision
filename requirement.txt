@@ -41,9 +41,9 @@ setuptools==72.1.0
 six==1.16.0
 sympy==1.13.1
 tbb==2021.11.0
-torch==2.3.1
-torchaudio==2.3.1
-torchvision==0.18.1
+torch==2.3.1+cpu
+torchaudio==2.3.1+cpu
+torchvision==0.18.1+cpu
 tqdm==4.66.4
 typing_extensions==4.12.2
 tzdata==2024.1
