@@ -33,7 +33,6 @@ pypiwin32==223
 python-dateutil==2.9.0.post0
 pyttsx3==2.90
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.1
 requests==2.32.3
 scipy==1.14.0
